@@ -4,6 +4,8 @@ _Item Raro • Pergaminho Mágico • Requer Sintonia com Desenvolvedor_
 
 _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulação do tempo e do espaço no reino do código. Runas brilham sutilmente quando abertas sob a luz dos monitores._
 
+━━━━━━━━━━ ✦ ━━━━━━━━━━
+
 ### ✨ Encantamentos Fundamentais
 
 | Runa                          | Poder Místico                                                                                                                                    |
@@ -12,6 +14,8 @@ _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulaç
 | Sistema de Controle de Versão | Sistema que mantém um registro detalhado de cada mudança nos arquivos.                                                                           |
 | Git                           | Sistema criado por Linus Torvalds que registra alterações como "fotografias" do projeto ao longo do tempo.                                       |
 | GitHub                        | Plataforma para hospedagem de código-fonte onde desenvolvedores hospedam projetos, colaboram e compartilham conhecimento usando o Git como base. |
+
+━━━━━━━━━━ ✦ ━━━━━━━━━━
 
 ### 🪄 Feitiços Básicos
 
@@ -30,6 +34,8 @@ _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulaç
 | Restore                  | Restaura arquivos para o estado anterior, seja desfazendo mudanças ou removendo-os da staging area.                           |
 | Merge                    | Une alterações de uma branch com outra.                                                                                       |
 
+━━━━━━━━━━ ✦ ━━━━━━━━━━
+
 ### 💫 Magias Avançadas
 
 | Conjuração        | Manifestação                                                                                                        |
@@ -45,6 +51,8 @@ _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulaç
 | Upstream          | O repositório original do qual você fez um fork. A fonte da qual você quer manter-se atualizado.                    |
 | Origin            | Apelido padrão para o repositório remoto de onde você clonou seu projeto local.                                     |
 
+━━━━━━━━━━ ✦ ━━━━━━━━━━
+
 ### 🏰 Artefatos do Universo GitHub
 
 | Relíquia     | Propriedades Místicas                                                                                           |
@@ -59,6 +67,8 @@ _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulaç
 | Projects     | Quadros Kanban integrados para gerenciar tarefas e acompanhar o progresso do seu projeto.                       |
 | Discussions  | Fórum comunitário para conversas, dúvidas e brainstorming sobre o projeto.                                      |
 
+━━━━━━━━━━ ✦ ━━━━━━━━━━
+
 ### ⚔️ Estratégias de Batalha Codificada
 
 | Tática                  | Efeito de Campo                                                                                                                |
@@ -68,6 +78,8 @@ _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulaç
 | Conventional Commits    | Padrão para escrever mensagens de commit que facilita a geração automática de changelogs e versionamento semântico.            |
 | Squash                  | Técnica para combinar vários commits pequenos em um único commit coeso antes de integrar ao projeto principal.                 |
 | Rebase vs. Merge        | Duas filosofias diferentes para integrar código: reescrever a história (rebase) ou preservar o histórico completo (merge).     |
+
+━━━━━━━━━━ ✦ ━━━━━━━━━━
 
 ### ❇️ Magias de Resolução de Conflitos
 
